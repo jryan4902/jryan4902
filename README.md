@@ -1,7 +1,7 @@
 ## Hello! My name is Jake
 
 ### 👨‍💻 About Me
-    I am a 3 year senior at the University of North Texas with a background in software development and data analysis. My Github profile consists of personal and academic projects within my time in university.
+#### I am a 3 year senior at the University of North Texas with a background in software development and data analysis. My Github profile consists of personal and academic projects within my time in university.
 
 ### 💻  Programming Languages and Tech Stack
 **Programming Languages:**
